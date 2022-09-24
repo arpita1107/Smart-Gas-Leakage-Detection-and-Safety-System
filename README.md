@@ -12,8 +12,7 @@ measure to prevent explosions
 system
 6. Turns off all electrical appliances when gas leakage level becomes fatal
 
-                                                
-                                                
-                                                         Circuit Design Block Diagram
-                                                         
-                             ![image](https://user-images.githubusercontent.com/76917638/192086274-4cd9977b-b2da-441f-a4e2-5520dd6308fa.png)
+                                                                  
+                                                                  
+                                                                  Circuit Design Block Diagram
+![image](https://user-images.githubusercontent.com/76917638/192086274-4cd9977b-b2da-441f-a4e2-5520dd6308fa.png)
