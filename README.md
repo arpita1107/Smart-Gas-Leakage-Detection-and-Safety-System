@@ -14,5 +14,6 @@ system
 
                                                                   
                                                                   
-Circuit Design Block Diagram
+## Circuit Design Block Diagram
+
 ![image](https://user-images.githubusercontent.com/76917638/192086274-4cd9977b-b2da-441f-a4e2-5520dd6308fa.png)
