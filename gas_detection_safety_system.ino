@@ -102,4 +102,3 @@ void checkLeakageStop()
     }
   }
 }
-Code explanation and organ
